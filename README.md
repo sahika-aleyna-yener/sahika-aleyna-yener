@@ -57,8 +57,8 @@ Through **KodUnicorn**, I aim to make learning a magical, inclusive, and empower
 ### 📊 GitHub Insights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sahikaaleyna&show_icons=true&theme=rose_pine&hide_border=true&count_private=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahikaaleyna&layout=compact&theme=rose_pine&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=sahika-aleyna-yener&show_icons=true&theme=rose_pine&hide_border=true&count_private=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahika-aleyna-yener&layout=compact&theme=rose_pine&hide_border=true" height="165"/>
 </p>
 
 <p align="center">
