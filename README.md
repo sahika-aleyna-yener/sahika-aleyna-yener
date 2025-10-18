@@ -13,7 +13,7 @@
 - 🦄 Founder of **[KodUnicorn](https://kodunicorn.com.tr)** — An AI-powered EdTech platform helping kids learn algorithmic thinking through fun, pastel learning journeys.  
 - 💡 Passionate about **Education Technologies**, **AI for Social Good**, and **Creative Coding**.  
 - 🌱 Currently exploring ways to design accessible, playful, and intelligent learning systems.  
-- ✨ My dream: Building a modern **Köy Enstitüsü** for the digital generation.
+- ✨ My dream: Building a modern **KodUnicorn** for the digital generation.
 
 ---
 
