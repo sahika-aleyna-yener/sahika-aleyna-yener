@@ -9,7 +9,7 @@
 ### 🌟 About Me
 
 - 🦄 Founder of **[KodUnicorn](https://kodunicorn.com)** — an AI-powered STEM & coding platform for kids aged 6–16, featuring **Luna**, an AI coach that analyzes student learning in real time
-- 🔬 **TÜBİTAK 2209-A** researcher — studying the Luna model under Prof. Dr. Murat Erşen Berberler
+- 🔬 **TÜBİTAK 2209-A** researcher — studying the Luna model 
 - 🚀 **DEPARK BAMBU GO Speed-Up** participant — accelerating KodUnicorn at DEÜ Teknopark
 - 🎓 Board member, **DEU CSAI Community**
 - 💡 Passionate about **EdTech**, **AI for Social Good**, **Mental Health Tech**, and **Smart City Solutions**
